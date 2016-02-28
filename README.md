@@ -1,2 +1,2 @@
-# AlgoritmoEvolutivo_Mutaciones
-Diferentes Tipos de Mutaciones para un algoritmo Evolutivo
+# Algoritmo Genético (tipos de mutaciones)
+Diferentes Tipos de Mutaciones para un algoritmo genético
